@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local files
+*.mp3
+*.stl
+*.3mf
+*.gcode
+*.bgcode
+
+# Other files
+.DS_Store
+*.log
+.vscode/
+uv.lock
