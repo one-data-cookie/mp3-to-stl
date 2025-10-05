@@ -11,11 +11,8 @@ that can then be customised and exported for printing.
 - Run the Python script with `python mp3-to-stl.py`
 
 ## Printing
-I'd recommend going for a single-shell and tweak the settings in a slicer:
-- *Wall*: 3 perimeters
-- *Top*: 0 mm
-- *Bottom*: same as bottom padding
-- *Infill*: 0%
+I'd recommend going for a single-shell and
+[tweaking the settings in a slicer](https://www.printables.com/model/1435084-custom-vase-from-mp3-audio#-settings).
 
 The code also has an option to add a wall if you're looking for an even sturdier result.
 
