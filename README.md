@@ -13,7 +13,6 @@ that can then be customised and exported for printing.
 ## Printing
 I'd recommend going for a single-shell and
 [tweaking the settings in a slicer](https://www.printables.com/model/1435084-custom-vase-from-mp3-audio#-settings).
-
 The code also has an option to add a wall if you're looking for an even sturdier result.
 
 ## Example
