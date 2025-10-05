@@ -15,6 +15,7 @@ wheels/
 *.3mf
 *.gcode
 *.bgcode
+*.jpeg
 
 # Other files
 .DS_Store
